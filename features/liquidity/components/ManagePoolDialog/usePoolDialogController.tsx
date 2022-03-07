@@ -136,6 +136,9 @@ const useMutateLiquidity = ({
     async () => {
       const { lp_token_address } = swap
 
+      console.log(percentage)
+      console.log(maxApplicableBalanceForTokenA)
+      console.log(maxApplicableBalanceForTokenB)
       const tokenAAmount = percentage * maxApplicableBalanceForTokenA
       const tokenBAmount = percentage * maxApplicableBalanceForTokenB
 

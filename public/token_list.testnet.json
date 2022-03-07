@@ -12,7 +12,7 @@
   "base_token": {
       "id": "juno-network",
       "pool_id": "JUNO+JUNO",
-      "chain_id": "lucina",
+      "chain_id": "uni-2",
       "token_address": "",
       "swap_address": "",
       "symbol": "JUNOX",
@@ -27,7 +27,7 @@
     {
       "id": "juno-network",
       "pool_id": "JUNO+JUNO",
-      "chain_id": "lucina",
+      "chain_id": "uni-2",
       "token_address": "",
       "swap_address": "",
       "symbol": "JUNOX",
@@ -40,45 +40,17 @@
     },
     {
       "id": "juno-network",
-      "pool_id": "JUNO-POOD",
-      "chain_id": "lucina",
-      "token_address": "juno1q9phrg9y8gypfkv3yn40c4acca0zunm3qddfwtd0qvmrg2thtc5qqdslrd",
-      "swap_address": "juno1trl2qjy2wqzx79n9gwfhq50c2ylvpxhjecap9e5ytlyy9sq4t8yqnhyvc6",
-      "symbol": "POOD",
-      "name": "Poodle",
+      "chain_id": "uni-2",
+      "pool_id": "JUNO-ONE",
+      "token_address": "juno13e2gmcz8jw5w59fk0t4fzfn4r2f9k7le3tl8ha73mrvvvf3glggs2ka463",
+      "swap_address": "juno139l4hugynukfyeepxej9p4rd2nm0ag09ms4k9z2q2evwtetwycfq9ua470",
+      "symbol": "ONE",
+      "name": "ONE",
       "decimals": 6,
-      "logoURI": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/29231450/Poodle-Standard-Gray-On-White-Standing.jpg",
+      "logoURI": "https://zmedley.com/synthdaodao.png",
       "tags": ["memecoin"],
       "native":false,
-      "denom":"upood"
-    },
-    {
-      "id": "juno-network",
-      "pool_id": "JUNO-CRAB",
-      "chain_id": "lucina",
-      "token_address": "juno179e90rqspswfzmhdl25tg22he0fcefwndgzc957ncx9dleduu7mshgggfd",
-      "swap_address": "juno14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2q2nq5xv",
-      "symbol": "CRAB",
-      "name": "Crab",
-      "decimals": 6,
-      "logoURI": "https://static.vecteezy.com/system/resources/previews/004/753/134/original/cute-smilling-crab-isolated-ona-white-background-vector.jpg",
-      "tags": ["memecoin"],
-      "native":false,
-      "denom":"ucrab"
-    },
-    {
-      "id": "juno-network",
-      "chain_id": "lucina",
-      "pool_id": "JUNO-DAO",
-      "token_address": "juno1fasf5lptvtg8jj876u0n5mapmjdn3juwpgdsjl3hy0w67qhlk4xqrx8fnt",
-      "swap_address": "juno1jwedcsjxv8e3umnnqm5cvtylg0han2wfqwlw9n27n2kns0vjgneqf0yvlw",
-      "symbol": "DAO",
-      "name": "DAO",
-      "decimals": 6,
-      "logoURI": "https://avatars.githubusercontent.com/u/92181505?s=200&v=4",
-      "tags": ["memecoin"],
-      "native":false,
-      "denom":"udao"
+      "denom":"ONE"
     }
   ],
   "version": {
